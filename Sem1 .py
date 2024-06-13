@@ -99,7 +99,7 @@ for i in range(no_rows_dfSub2):
         else:
              print("dfSchedulecollection does not have a schedule yet")
         
-        print(" nigga################################################################################")
+        print(" ################################################################################")
         print("here ", no_rows_dfSub2)
         print("me ",i)
 
@@ -276,7 +276,7 @@ for i in range(no_rows_dfSub2):
 
                                 flag= True
                                 print("........................Getting data for last subject.................................")
-                                print(" 2nigga################################################################################")
+                                print(" ################################################################################")
                                 print("here ", no_rows_dfSub3)
                                 print("me ",b)
 
